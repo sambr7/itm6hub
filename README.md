@@ -1,2 +1,2 @@
 # itm6hub
-IBM Tivoli Monitoring Docker image deployment
+Non-Official reusable IBM Tivoli Monitoring Server (HUB TEMS) Docker image deployment
